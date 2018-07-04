@@ -1374,7 +1374,14 @@ body {
   display: none;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.cid-qTkA127IK8 H1 {
+  color: #4dc69b;
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #073b4c;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
